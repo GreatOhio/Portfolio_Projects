@@ -1,6 +1,6 @@
 select * from pizza_sales;
 
--- A. KPI’s
+-- A. KPIâ€™s
 
 
 --1. Total Revenue:
